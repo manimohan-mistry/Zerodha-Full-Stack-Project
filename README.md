@@ -15,10 +15,10 @@ A full-stack trading platform inspired by **Zerodha**, built to demonstrate end-
 ---
 
 ## 🛠 Tech Stack
-- **Frontend**: React, Axios, Recharts  
-- **Backend**: Node.js, Express  
+- **Frontend**: React, Axios, chart.js  
+- **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
-- **Auth**: JWT  
+- **Auth**: JWT authentication
 - **Other**: REST APIs, Git, GitHub  
 
 ---
